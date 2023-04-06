@@ -1,0 +1,2 @@
+/*a. Structure elements can be initialized at the time of declaration.
+*/
